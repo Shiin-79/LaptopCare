@@ -23,9 +23,9 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Installing
 
-1. composer install
-2. php artisan key:generate
-3. php artisan migrate
+1. `composer install`
+2. `php artisan key:generate`
+3. `php artisan migrate`
 
 ## Running
 
